@@ -1,0 +1,6 @@
+@media (min-width: 1024px) {
+    .container {
+        flex-direction: row-reverse;
+        padding: 2rem;
+    }
+    }
